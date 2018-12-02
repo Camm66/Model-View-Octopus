@@ -1,0 +1,25 @@
+img {
+  height: 250;
+  width: 250;
+}
+
+li {
+  float: left;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 16px;
+}
+
+span {
+  font-size: 12px;
+}
+
+#display {
+  margin: 10px;
+}
+
+#admin-display{
+  display: none;
+  margin: 20px;
+}
